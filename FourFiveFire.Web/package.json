@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "name": "fourfivefire",
+  "description": "",
+  "private": true,
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-nunjucks-render": "2.0.0",
+    "gulp-clean": "0.3.2",
+    "gulp-data": "1.2.1",
+    "gulp-rename": "1.2.2",
+    "merge-stream": "1.0.1",
+    "gulp-environments": "0.1.2"
+ },
+  "dependencies": {
+    "bulma": "0.6.2",
+    "font-awesome": "4.7.0"
+  },
+  "scripts": {
+    "postinstall": "gulp restore"
+  },
+  "repository": {}
+}

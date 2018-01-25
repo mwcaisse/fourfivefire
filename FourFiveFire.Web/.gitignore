@@ -1,0 +1,8 @@
+node_modules/
+src/lib/
+dist/
+dist-stage/
+dist-local/
+npm-debug.log
+*.lock.json
+.vs
