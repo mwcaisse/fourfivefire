@@ -6,17 +6,8 @@
 .footer {
     padding: 30px;
     width: 100%;
-    background-color: #292b2c;
-    color: rgba(255, 255, 255, .5);
 }
-
-    .footer a {
-        color: rgba(255, 255, 255, .5);
-    }
-
-        .footer a:hover {
-            color: rgba(255, 255, 255, .75);
-        }
+  
 
 
 
